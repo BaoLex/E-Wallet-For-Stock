@@ -22,10 +22,10 @@ This project is an **E-Wallet for Stock** system built using **PHP** and **XAMPP
    - [Download XAMPP](https://www.apachefriends.org/index.html)
 2. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-repo/e-wallet-stock.git
+   git clone https://github.com/BaoLex/E-Wallet-For-Stock.git
    ```
 3. **Move Project to XAMPP Directory**
-   - Copy the project folder to `htdocs` (e.g., `C:\xampp\htdocs\e-wallet-stock`)
+   - Copy the project folder to `htdocs` (e.g., `C:\xampp\htdocs\e-wallet-for-stock`)
 4. **Create Database**
    - Open phpMyAdmin (`http://localhost/phpmyadmin`)
    - Create a database named `ewallet_stock`
@@ -40,7 +40,7 @@ This project is an **E-Wallet for Stock** system built using **PHP** and **XAMPP
    ```
 6. **Start Apache & MySQL** in XAMPP
 7. **Run the Application**
-   - Open browser and go to `http://localhost/e-wallet-stock`
+   - Open browser and go to `http://localhost/e-wallet-for-stock`
 
 ## Usage
 1. Register/Login as a user
